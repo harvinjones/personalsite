@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>index6</title>
+  </head>
+  <body style="background-color: #292b2d;">
+    <table style="width: 100%;" border="1">
+      <tbody>
+        <tr>
+          <td>
+            <p><img src="file:///C:/Users/User/Documents/harvin/uu.png" alt="" style="width: 1568px; height: 869px;"></p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <table style="width: 100%" border="1">
+      <tbody>
+        <tr>
+          <td style="background-color: #0f0f10;"><a href="index6.html" target="_top"><span
+                style="font-family: Teko; color: #067999;">HOME</span></a></td>
+          <td style="background-color: #0f0f10;"><a href="index4.html" target="_top"><span
+                style="font-family: Teko; color: #067999;">PROFILE</span></a></td>
+          <td style="background-color: #0f0f10;"><a href="index2.html" target="_top"><span
+                style="color: #067999; font-family: Teko;">PORTFOLIO</span></a></td>
+          <td style="background-color: #0f0f10;"><a href="index.html" target="_top"><span
+                style="font-family: Teko; color: #067999;">SERVICES</span></a></td>
+          <td style="background-color: #0f0f10;"><a href="index3.html" target="_top"><span
+                style="font-family: Teko; color: #067999;">MULTIMEDIA</span></a></td>
+          <td style="background-color: #0f0f10;"><a href="index5.html" target="_top"><span
+                style="font-family: Teko; color: #067999;">CONTACT</span></a></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <table style="width: 100%;" border="1">
+      <tbody>
+        <tr>
+          <td style="width: 866.7px;"><img src="file:///C:/Users/User/Documents/harvin/Untitled-4.png"
+              alt="" style="width: 792px; height: 447px;"><br>
+          </td>
+          <td style="width: 687.3px;"><img src="file:///C:/Users/User/Documents/harvin/Untitled-3.png"
+              alt="" style="width: 813px; height: 451px;"><br>
+          </td>
+        </tr>
+        <tr>
+          <td><img src="Untitled-5.png" alt="" style="width: 793px; height: 446px;"><br>
+          </td>
+          <td style="height: 48px;"><img src="file:///C:/Users/User/Documents/harvin/Untitled-t1.png"
+              alt="" style="width: 792px; height: 446px;"><br>
+          </td>
+        </tr>
+        <tr>
+          <td><img src="Untitled-2.png" alt="" style="width: 801px; height: 451px;"><br>
+          </td>
+          <td style="height: 38px;"><img src="Untitled-i1.png" alt="" style="width: 801px; height: 452px;"><br>
+          </td>
+        </tr>
+        <tr>
+          <td><img src="Untitled-i3.png" alt="" style="width: 801px; height: 452px;"><br>
+          </td>
+          <td style="height: 61px;"><img src="Untitled-i4.png" alt="" style="width: 799px; height: 452px;"><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="height: 46px;"><video src="../Revelation.html/a%20taste%20of%20new%20york/assets/A%20Taste%20of%20New%20York.mp4"
+              preload="auto" controls="controls" width="800"></video><br>
+          </td>
+          <td><video src="../Revelation.html/alien/assets/0001-1291.mp4" preload="auto"
+              controls="controls" width="800"></video><br>
+          </td>
+        </tr>
+        <tr>
+          <td><video src="../Revelation.html/chicago/assets/Chicago%20By%20Night%20_%204K%20Drone%20Footage.mp4"
+              preload="auto" controls="controls" width="800"></video><br>
+          </td>
+          <td><video src="../Revelation.html/gwd_preview_Alien.Sequence01/Alien.Sequence01.mp4"
+              preload="auto" controls="controls" autoplay="autoplay" width="800"></video><br>
+          </td>
+        </tr>
+        <tr>
+          <td><video src="../Revelation.html/assets/Inicializations2.mp4" preload="auto"
+              controls="controls" autoplay="autoplay" width="800"></video><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
